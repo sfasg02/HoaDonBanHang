@@ -1,0 +1,14 @@
+[
+	{
+		"id": 0,
+		"name": "Nam",
+		"price": 0.0,
+		"is_offer": false
+	},
+	{
+		"id": 1,
+		"name": "string",
+		"price": 0.0,
+		"is_offer": true
+	}
+]

@@ -1,0 +1,9 @@
+[
+	{
+		"id": 0,
+		"name": "string",
+		"unit": "string",
+		"price": 0.0,
+		"quantity": 0
+	}
+]
